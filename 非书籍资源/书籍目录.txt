@@ -1,0 +1,506 @@
+|____人文
+| |____活着.pdf
+|____.DS_Store
+|____数学
+| |____数学史
+| | |____数理统计学简史.pdf
+| | |____数学悖论与三次数学危机.pdf
+| | |____数学恩仇录.pdf
+| |____应用数学
+| | |____数理逻辑与数学基础
+| | | |____正态总体的抽样分布.ppt
+| |____基础数学
+| | |____概率论
+| | | |____概率论与数理统计(浙大第四版).pdf
+| | |____数理逻辑与数学基础
+| | | |____基础集合论.pdf
+| | |____数学分析
+| | | |____托马斯微积分.pdf
+| | | |____微积分的历程：从牛顿到勒贝格.pdf
+|____未归档
+| |____.gitkeep
+|____README.md
+|____.gitignore
+|____计算机
+| |____.DS_Store
+| |____软件
+| | |____网络
+| | | |____HTTP权威指南（中文版）.pdf
+| | | |____图解HTTP.epub
+| | | |____Computer Networks, Tanenbaum 5th.pdf
+| | | |____图解TCP_IP_第5版.pdf
+| | | |____TCP-IP详解卷II.pdf
+| | | |____Understanding Linux Network Internals.pdf
+| | | |____计算机网络第五版.pdf
+| | | |____TCP-IP详解卷I.pdf
+| | | |____HTTP权威指南完整版.pdf
+| | | |____HTTP权威指南.pdf
+| | | |____图解HTTP.pdf
+| | | |____TCP-IP详解卷III.pdf
+| | | |____网络是怎样连接的.pdf
+| | |____数学编程
+| | | |____线性代数.pdf
+| | | |____数学分析新讲(全三册)-北京大学出版社.pdf
+| | | |____数学之美.pdf
+| | | |____程序员的数学 2 概率统计 ,平冈和幸，（日）堀玄著 ,P406.pdf
+| | | |____程序员的数学 1 数学思维 ,平冈和幸，（日）堀玄著 ,P237.pdf
+| | | |____程序员的数学 3 线性代数 ,平冈和幸，堀玄著；卢晓南译 ,P358.pdf
+| | |____.DS_Store
+| | |____操作系统
+| | | |____Linux命令行与shell脚本编程大全（第3版）.pdf
+| | | |____Linux系统编程.pdf
+| | | |____UNIX操作系统设计.pdf
+| | | |____Linux编程接口 - Linux和UNIX系统编程手册.pdf
+| | | |____UNIX网络编程卷2：进程间通信（第2版）.pdf
+| | | |____UNIX编程艺术（中文）.pdf
+| | | |____LinuxProbe.pdf
+| | | |____UNIX网络编程卷1：套接字联网API（第3版）.pdf
+| | | |____unix环境高级编程第三版.pdf
+| | | |____Linux内核设计与实现（第三版）.pdf
+| | | |____UNIX环境高级编程_第三版.pdf
+| | |____算法
+| | | |____算法（第4版）.pdf
+| | | |____剑指offer名企面试官精讲典型编程题.pdf
+| | | |____数据结构与算法分析：C语言描述（第2版）.pdf
+| | | |____算法图解-python.pdf
+| | | |____大话数据结构.pdf
+| | | |____算法导论（第2版）.pdf
+| | | |____分布式系统原理与范型 第二版.pdf
+| | | |____数据结构与算法JavaScript描述.pdf
+| | | |____从PAXOS到ZOOKEEPER分布式一致性原理与实践.pdf
+| | |____编程艺术
+| | | |____编程珠玑（第2版）.pdf
+| | | |____编写可读代码的艺术.pdf
+| | | |____黑客与画家(中文版).pdf
+| | | |____人月神话.pdf
+| | | |____大话设计模式.pdf
+| | | |____HeadFirst设计模式.pdf
+| | | |____编写高质量代码 改善Python程序的91个建议.pdf
+| | | |____高效程序员的45个习惯.pdf
+| | | |____clean code-代码整洁之道 中文完整版-带书签.pdf
+| | | |____增长黑客.pdf
+| | | |____设计模式：可复用面向对象软件的基础.pdf
+| | | |____增长黑客手册：如何用数据驱动爆发式增长？增长黑客PDF下载.pdf
+| | | |____大规模分布式存储系统：原理解析与架构实战.杨传辉.pdf
+| | | |____异类：不一样的成功启示录.pdf
+| | | |____编译原理（高清龙书中文版）.pdf
+| | | |____高性能网站建设指南.pdf
+| | | |____高效能程序员的修炼.pdf
+| | | |____Web性能权威指南.pdf
+| | | |____程序员的职业素养.pdf
+| | | |____重构_改善既有代码的设计[高清版].pdf
+| | | |____微服务设计.pdf
+| | | |____敏捷软件开发：原则、模式与实践.pdf
+| | | |____程序员修炼之道.pdf
+| | | |____代码大全.pdf
+| | | |____修改代码的艺术.pdf
+| | | |____领域驱动设计：软件核心复杂性应对之道.pdf
+| | | |____人人都是架构师 分布式系统架构落地与瓶颈突破.pdf
+| | | |____程序员的自我修养：链接、装载与库.pdf
+| | | |____Distributed Systems Principles and Paradigms.pdf
+| | | |____大型网站技术架构：核心原理与案例分析.pdf
+| | |____容器
+| | | |____k8s
+| | | | |____k8s-08-servicecatalog.pdf
+| | | | |____docker.pdf
+| | | | |____k8s-03-scheduling.pdf
+| | | | |____kubernetes-for-full-stack-developers.pdf
+| | | | |____docker_practice.pdf
+| | | | |____k8s-up-and-running.pdf
+| | | | |____k8s-02-getting started.pdf
+| | | | |____k8s-09-helm.pdf
+| | | | |____k8s-06-storage.pdf
+| | | | |____k8s-07-monitoring.pdf
+| | | | |____k8s-05-network.pdf
+| | | | |____from-containers-to-kubernetes-with-nodejs.pdf
+| | | | |____making-servers-work-a-practical-guide-to-system-administration.pdf
+| | | | |____k8s-10-practise.pdf
+| | | | |____k8s-01-101.pdf
+| | | | |____k8s-04-runtime.pdf
+| | |____非书籍资源
+| | | |____sweet.webp
+| | |____计算机程序的构造和解释（SICP中文第2版）.pdf
+| | |____性能
+| | | |____web
+| | | | |____Web性能权威指南.pdf
+| | |____缓存
+| | | |____redis
+| | | | |____how-to-manage-a-redis-database.pdf
+| | |____人工智能
+| | | |____机器学习
+| | | | |____统计学习方法(李航).pdf
+| | | |____给学员的课件资料包
+| | | | |____Course 4
+| | | | | |____C4 Week 4
+| | | | | | |____C4W4L01-WhatIsFaceRecog.pdf
+| | | | | | |____C4W4L09-ContentCostFunction.pdf
+| | | | | | |____C4W4L02-OneShotLearning.pdf
+| | | | | | |____C4W4L08-CostFunction.pdf
+| | | | | | |____C4W4L07-WhatAreDeepCNsLearning.pdf
+| | | | | | |____C4W4L03-SiameseNetwork.pdf
+| | | | | | |____C4W4L11-1D3DGeneralizations.pdf
+| | | | | | |____C4W4L06-WhatIsNeuralTransferStyle.pdf
+| | | | | | |____C4W4L04-TripletLoss.pdf
+| | | | | | |____C4W4L10-StyleCostFunction.pdf
+| | | | | | |____C4W4L05-FaceVerifABinaryClass.pdf
+| | | | | |____C4 Week 3
+| | | | | | |____C4W3L07-NonmaxSuppression.pdf
+| | | | | | |____C4W3L08-AnchorBoxes.pdf
+| | | | | | |____C4W3L01-ObjectLocalization.pdf
+| | | | | | |____C4W3L04-ConvImpSlidingWindows.pdf
+| | | | | | |____C4W3L02-LandmarkDetection.pdf
+| | | | | | |____C4W3L03-ObjectDetection.pdf
+| | | | | | |____C4W3L09-YOLOAlgorithm.pdf
+| | | | | | |____C4W3L10-RegionProposals.pdf
+| | | | | | |____C4W3L06-InstersecOverUnion.pdf
+| | | | | |____C4 Week 2
+| | | | | | |____C4W2L07-InceptionNetwork.pdf
+| | | | | | |____C4W2L06-InceptionNetworkMotivation.pdf
+| | | | | | |____C4W2L05-NetworkinNetworkand1x1.pdf
+| | | | | | |____C4W2L03-ResNets.pdf
+| | | | | | |____C4W2L01-WhyLookAtCaseStudies.pdf
+| | | | | | |____C4W2L02-ClassicNetworks.pdf
+| | | | | |____C4 Week 1
+| | | | | | |____C4W1L03-MoreEdgeDetection.pdf
+| | | | | | |____C4W1L05-StridedConv.pdf
+| | | | | | |____C4W1L04-Padding.pdf
+| | | | | | |____C4W1L10-CNNExample.pdf
+| | | | | | |____C4W1L08-SimpleCNNExample.pdf
+| | | | | | |____C4W1L01 slides.pdf
+| | | | | | |____C4W1L02-EdgeDetectionExample.pdf
+| | | | | | |____C4W1L09-PoolingLayers.pdf
+| | | | | | |____C4W1L11-WhyConvs.pdf
+| | | | | | |____C4W1L06-ConvolutionsOverVolumes.pdf
+| | | | |____Course 3
+| | | | | |____C3 Week 1
+| | | | | | |____C3W1L06 supplemental notes.pdf
+| | | | | | |____C3W1L07 notes.pdf
+| | | | | | |____C3W1L05 supplemental notes.pdf
+| | | | | | |____C3W1L06 slides.pdf
+| | | | | | |____C3W1L01 notes.pdf
+| | | | | | |____C3W1L02 supplemental notes.pdf
+| | | | | | |____C3W1L08 supplemental notes.pdf
+| | | | | | |____C3W1L09 supplemental notes.pdf
+| | | | | | |____C3W1L03 supplemental notes.pdf
+| | | | | | |____C3W1L12 notes.pdf
+| | | | | | |____C3W1L04 supplemental notes.pdf
+| | | | | | |____C3W1L07 supplemental notes.pdf
+| | | | | | |____C3W1L08 notes.pdf
+| | | | | | |____C3W1L12 supplemental notes.pdf
+| | | | | | |____C3W1L05 notes.pdf
+| | | | | | |____C3W1L11 notes.pdf
+| | | | | | |____C3W1L03 notes.pdf
+| | | | | | |____C3W1L11 supplemental notes.pdf
+| | | | | | |____C3W1L10 supplemental notes.pdf
+| | | | | | |____C3W1L09 notes.pdf
+| | | | | | |____C3W1L10 notes.pdf
+| | | | | | |____C3W1L04 notes.pdf
+| | | | | | |____C3W1L02 notes.pdf
+| | | | | |____C3 Week 2
+| | | | | | |____C3W2L09 notes.pdf
+| | | | | | |____C3W2L04 notes.pdf
+| | | | | | |____C3W2L10 notes.pdf
+| | | | | | |____C3W2L02 notes.pdf
+| | | | | | |____C3W2L08 notes.pdf
+| | | | | | |____C3W2L05 notes.pdf
+| | | | | | |____C3W2L01 slides.pdf
+| | | | | | |____C3W2L03 notes.pdf
+| | | | | | |____C3W2L06 notes.pdf
+| | | | | | |____C3W2L07 notes.pdf
+| | | | |____Course 2
+| | | | | |____C2 Week 2
+| | | | | | |____C2W2L02 notes.pdf
+| | | | | | |____C2W2L04 notes.pdf
+| | | | | | |____C2W2L10 notes.pdf
+| | | | | | |____C2W2L09 notes.pdf
+| | | | | | |____C2W2L06 lecture.pdf
+| | | | | | |____C2W2L03 notes.pdf
+| | | | | | |____C2W2L05 notes.pdf
+| | | | | | |____C2W2L08 notes.pdf
+| | | | | | |____C2W2L01 notes.pdf
+| | | | | | |____C2W2L07 notes.pdf
+| | | | | |____C2 Week 3
+| | | | | | |____C2W3L04 notes.pdf
+| | | | | | |____C2W3L10 notes.pdf
+| | | | | | |____C2W3L09 notes.pdf
+| | | | | | |____C2W3L02 notes.pdf
+| | | | | | |____C2W3L11 notes.pdf
+| | | | | | |____C2W3L05 notes.pdf
+| | | | | | |____C2W3L08 notes.pdf
+| | | | | | |____C2W3L03 notes.pdf
+| | | | | | |____C2W3L06 notes.pdf
+| | | | | | |____C2W3L07 notes.pdf
+| | | | | | |____C2W3L01 notes.pdf
+| | | | | |____C2 Week 1
+| | | | | | |____C2W1L01 notes.pdf
+| | | | | | |____C2W1L13 notes.pdf
+| | | | | | |____C2W1L12 notes.pdf
+| | | | | | |____C2W1L06 notes.pdf
+| | | | | | |____C2W1L05 notes.pdf
+| | | | | | |____C2W1L08 notes.pdf
+| | | | | | |____C2W1L02 notes.pdf
+| | | | | | |____C2W1L03 pdf.pdf
+| | | | | | |____C2W1L10 notes.pdf
+| | | | | | |____C2W1L04 notes.pdf
+| | | | | | |____C2W1L09 notes.pdf
+| | | | |____Course 1
+| | | | | |____C1 Week 1
+| | | | | | |____C1W1L04.pdf
+| | | | | | |____C1W1L05 slides.pdf
+| | | | | | |____C1W1L03.pdf
+| | | | | | |____C1W1L02 slides.pdf
+| | | | | | |____C1W1L01 Welcome.pdf
+| | | | | | |____C1W1L02 notes.pdf
+| | | | | | |____C1W1L04 notes.pdf
+| | | | | | |____C1W1L06 CourseResources.pdf
+| | | | | | |____C1W1L03 notes.pdf
+| | | | | |____C1 Week 2
+| | | | | | |____C1W2L03 notes.pdf
+| | | | | | |____C1W2L11 slides.pdf
+| | | | | | |____C1W2L05 slides.pdf
+| | | | | | |____C1W2L02 notes.pdf
+| | | | | | |____C1W2L02 slides.pdf
+| | | | | | |____C1W2L13 slides.pdf
+| | | | | | |____C1W2L16 slides.pdf
+| | | | | | |____C1W2L07 slides.pdf
+| | | | | | |____C1W2L15 slides.pdf
+| | | | | | |____C1W2L09 slides.pdf
+| | | | | | |____C1W2L01 notes.pdf
+| | | | | | |____C1W2L04 slides.pdf
+| | | | | | |____C1W2L01 slides.pdf
+| | | | | |____C1 Week 3
+| | | | | | |____C1W3L06 slides.pdf
+| | | | | | |____C1W3L07  slides.pdf
+| | | | | | |____C1W3L01 slides.pdf
+| | | | | | |____C1W3L011 slides.pdf
+| | | | | | |____C1W3L09 slides.pdf
+| | | | | | |____C1W3L04 slides.pdf
+| | | | | | |____C1W3L02 slides.pdf
+| | | | | | |____C1W3L08 slides.pdf
+| | | | | | |____C1W3L010 slides.pdf
+| | | | | |____C1 Week 4
+| | | | | | |____C1W4L05 notes.pdf
+| | | | | | |____C1W4L06 slides.pdf
+| | | | | | |____C1W4L08 notes.pdf
+| | | | | | |____C1W4L01 DeepLLayerNN_annotated.pdf
+| | | | | | |____C1W4L03 notes.pdf
+| | | | | | |____C1W4L04 notes.pdf
+| | | | | | |____C1W4L02 ForwardPropInDN_annotated.pdf
+| | | | | | |____C1W4L07 notes.pdf
+| | | |____自然语言处理
+| | | | |____自然语言处理综论.pdf
+| | | |____语义网
+| | | | |____SemanticWebProgramming.pdf
+| | | | |____语义网基础教程.pdf
+| | | |____专家系统
+| | | |____5g与ai.pdf
+| | | |____深度学习_bengio.pdf
+| | |____软件工程
+| | | |____构建工具
+| | | | |____Maven实战.pdf
+| | | |____软件架构
+| | | | |____Java RESTful Web Service实战 [韩陆].pdf
+| | | |____软件设计方法
+| | | | |____测试驱动开发.pdf
+| | | | |____一线架构师实践指南(温昱).pdf
+| | | | |____领域驱动设计：软件核心复杂性应对之道.pdf
+| | |____工具
+| | | |____jenkins-the-definitive-guide.pdf
+| | | |____varnish-book.pdf
+| | | |____如何阅读一本书.pdf
+| | | |____Varnish权威指南-中文版.pdf
+| | | |____利用微信API将你的微信个人号变为聊天机器人.pdf
+| | | |____深入理解Nginx：模块开发与架构解析（第2版）.pdf
+| | | |____jenkins-handbook.pdf
+| | | |____Wireshark 数据包分析实战(第2版)最新中文版.pdf
+| | | |____GitHub入门与实践.pdf
+| | | |____任发科：构建适合自己的DevOps工具平台和团队.pdf
+| | | |____progit_v2.1.8.pdf
+| | |____编程语言
+| | | |____go
+| | | | |____go-design-patterns.pdf
+| | | | |____go-web-programming.pdf
+| | | | |____深入解析go.pdf
+| | | | |____BlackHat-Go.pdf
+| | | | |____Go语言程序设计.pdf
+| | | | |____go-building-web-applications.pdf
+| | | | |____go-in-practice.pdf
+| | | | |____Go语言编程.pdf
+| | | | |____Go Web 编程.pdf
+| | | | |____Go语言实战.pdf
+| | | | |____Machine-Learning-With-Go.pdf
+| | | | |____Go语言圣经.pdf
+| | | | |____go-gc.pdf
+| | | | |____Go入门指南.pdf
+| | | | |____Debugging With GDB中文版.pdf
+| | | | |____go-in-action.pdf
+| | | | |____how-to-code-in-go.pdf
+| | | |____python
+| | | | |____Python数据分析与挖掘实战.pdf
+| | | | |____Python网络数据采集.pdf
+| | | | |____Python编程快速上手 让繁琐工作自动化.pdf
+| | | | |____Python 网络爬虫 - v1.0.pdf
+| | | | |____Python绝技：运用Python成为顶级黑客 扫描版带书签.pdf
+| | | | |____pythonlearn.pdf
+| | | | |____Python学习手册(第4版).pdf
+| | | | |____Python高手之路.pdf
+| | | | |____Python3-廖雪峰[带标签完整版]-www.yeayee.com.pdf
+| | | | |____how-to-code-in-python.pdf
+| | | | |____Python自动化运维：技术与最佳实践.pdf
+| | | | |____Python语言入门.pdf
+| | | | |____Python机器学习.pdf
+| | | | |____深入 Python 3 中文版.pdf
+| | | | |____Python 和 Pygame 写游戏 - 从入门到精通.pdf
+| | | | |____与孩子一起学编程（中文完整版）.pdf
+| | | | |____Python编程：从入门到实践.pdf
+| | | | |____machine-learning-projects-python.pdf
+| | | | |____Flask Web开发：基于Python的Web应用开发实战.pdf
+| | | |____java
+| | | | |____Java并发编程实战.pdf
+| | | | |____编写高质量代码：改善Java程序的151个建议.pdf
+| | | | |____Spring实战（第4版）.pdf
+| | | | |____Java编程思想.pdf
+| | | | |____淘宝技术这十年.pdf
+| | | | |____Spring Boot实战 .pdf
+| | | | |____Java核心技术 卷1 基础知识 原书第9版.pdf
+| | | | |____Java 并发编程实战.pdf
+| | | | |____Java面试宝典2016版.pdf
+| | | | |____Java性能权威指南.pdf
+| | | | |____Java编程思想（第4版）.pdf
+| | | | |____深入理解Java虚拟机：JVM高级特性与最佳实践.pdf
+| | | | |____深入Java虚拟机(原书第二版清晰版).pdf
+| | | | |____Java RESTful Web Service实战 [韩陆].pdf
+| | | | |____Head First Java中文版.pdf
+| | | | |____Effective Java 中文第二版.pdf
+| | | | |____阿里巴巴Java开发手册.pdf
+| | | |____php
+| | | | |____Learning PHP设计模式.pdf
+| | | | |____PHP 5 Power Programming.pdf
+| | | | |____laravel_from_apprentice_to_artisan.pdf
+| | | | |____PHP+Swoole开发消息推送服务.pdf
+| | | | |____PHP动态特性的捕获与逃逸.pdf
+| | | | |____PHP扩展开发及在线应用剖析.pdf
+| | | | |____laravelandcomposer-130226080752-phpapp02.pdf
+| | | | |____深入PHP 面向对象 模式与实践第3版.pdf
+| | | | |____phpunit-book.pdf
+| | | | |____Design Patterns in PHP and Laravel.pdf
+| | | | |____laravel-doc-5_6.pdf
+| | | | |____Laravel Up and Running.pdf
+| | | |____node
+| | | | |____Node.js实战.pdf
+| | | | |____深入浅出Node.js.pdf
+| | | | |____Node即学即用(linuxidc.com).pdf
+| | | | |____七天学会NodeJS.pdf
+| | | | |____Node与Express开发.pdf
+| | | |____c
+| | | | |____C陷阱与缺陷.pdf
+| | | | |____C程序设计语言(第2版_新版).pdf
+| | | | |____Linux C编程一站式学习.2009.pdf
+| | | | |____Effective C++（中文版第3版）.pdf
+| | | | |____C++.Primer.Plus（中文版第5版）.pdf
+| | | | |____C语言程序设计现代方法_图灵获奖书.pdf
+| | | | |____深度探索C++对象模型.pdf
+| | | | |____c-handbook.pdf
+| | | |____ruby
+| | | | |____ruby基础教程中文第四版.pdf
+| | | | |____Ruby_Programming.pdf
+| | |____前端
+| | | |____css
+| | | | |____CSS那些事儿.pdf
+| | | | |____响应式Web设计：HTML5和CSS3实战.pdf
+| | | | |____点石成金：访客至上的网页设计秘笈.pdf
+| | | | |____css揭秘.pdf
+| | | | |____CSS权威指南-第3版.pdf
+| | | | |____简约至上：交互式设计四策略.pdf
+| | | | |____CSS3属性速查表.pdf
+| | | |____浏览器
+| | | | |____How browsers work中文版.pdf
+| | | |____html
+| | | | |____HTML5移动Web开发指南.pdf
+| | | | |____HTML 5 CANVAS游戏开发实战_高清完整版.pdf
+| | | | |____HTML5标签列表.pdf
+| | | | |____HTML5 Canvas核心技术图形动画与游戏开发.pdf
+| | | | |____HTML5与CSS3权威指南第二版.pdf
+| | | | |____HTML5权威指南.pdf
+| | | | |____HTML5与CSS3基础教程（第8版）中文高清版.pdf
+| | | |____JavaScript
+| | | | |____JavaScript面向对象编程指南.pdf
+| | | | |____精通JavaScript.pdf
+| | | | |____JavaScript高级程序设计（第3版）.pdf
+| | | | |____你不知道的JavaScript（上卷）.pdf
+| | | | |____一个月悟透JavaScript.pdf
+| | | | |____JavaScript忍者秘籍PDF.pdf
+| | | | |____编写可维护的JavaScript中文版 .pdf
+| | | | |____vue
+| | | | | |____vuejs.pdf
+| | | | |____JavaScript函数式编程.英文版.pdf
+| | | | |____你不知道的JavaScript（中卷）.pdf
+| | | | |____Effective JavaScript.pdf
+| | | | |____JavaScript设计模式与开发实践.pdf
+| | | | |____JavaScript语言精粹[修订版].pdf
+| | | | |____JavaScript权威指南(第6版)(中文版).pdf
+| | | | |____sicpjs.pdf
+| | | | |____你不知道的 JavaScript（下卷）.pdf
+| | | | |____JavaScript高级程序设计(第3版).pdf
+| | | | |____react
+| | | | | |____REACT：引领未来的用户界面开发框架.pdf
+| | | | |____JavaScript设计模式.pdf
+| | | | |____JavaScript函数式编程.pdf
+| |____程序员
+| | |____程序员的自我修养—链接、装载与库.pdf
+| |____硬件
+| | |____音响
+| | | |____调音
+| | | | |____初级音响师速成实用教程.pdf
+| | | | |____音响师理论与实战技巧  第2版.pdf
+| | | | |____从零开始学调音.pdf
+| | | | |____调音经验.doc
+| |____案例
+| | |____大型网站技术架构：核心原理与案例分析.pdf
+|____科普系列
+| |____欺骗的艺术.pdf
+| |____直来直去微积分.pdf
+| |____数学沉思录.pdf
+| |____数学之美.pdf
+| |____从一到无穷大.pdf
+| |____黑客与画家.pdf
+| |____控制论（N.维纳）.pdf
+| |____物理世界奇遇记--乔治·伽莫夫（美）.pdf
+| |____入侵的艺术.pdf
+| |____从惊讶到思考─数学悖论奇景.pdf
+| |____编码：隐匿在计算机软硬件背后的语言（美.佩措尔德）.pdf
+|____学习
+| |____学习之道（美）乔希·维茨金.pdf
+| |____推理的迷宫：悖论、谜题、及知识的脆弱性.pdf
+|____.git
+| |____config
+| |____objects
+| | |____pack
+| | |____info
+| |____HEAD
+| |____info
+| | |____exclude
+| |____description
+| |____hooks
+| | |____commit-msg.sample
+| | |____pre-rebase.sample
+| | |____pre-commit.sample
+| | |____applypatch-msg.sample
+| | |____fsmonitor-watchman.sample
+| | |____pre-receive.sample
+| | |____prepare-commit-msg.sample
+| | |____post-update.sample
+| | |____pre-merge-commit.sample
+| | |____pre-applypatch.sample
+| | |____pre-push.sample
+| | |____update.sample
+| | |____push-to-checkout.sample
+| |____refs
+| | |____heads
+| | |____tags
+| |____FETCH_HEAD
+|____物理
+| |____原子弹设计.pdf
+|____艺术
+| |____设计
+| | |____浮现式设计.pdf
